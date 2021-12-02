@@ -1,4 +1,4 @@
-vi vars.tf 
+
 
 variable "AWS_ACCESS_KEY"{
   type = string
